@@ -1,0 +1,90 @@
+2025-03-04 15:12:22,433 Function __init__ completed correctly
+2025-03-04 15:12:22,433 Function file_reader completed correctly
+2025-03-04 15:12:22,433 Function counts completed correctly
+2025-03-04 15:12:22,433 Function fractions completed correctly
+2025-03-04 15:12:22,434 Function predict_random completed correctly
+2025-03-04 15:12:22,434 Function counts completed correctly
+2025-03-04 15:12:22,434 Function save_file completed correctly
+2025-03-04 15:12:23,077 Sending the report is completed: The report hasn been created due to an error
+
+2025-03-04 15:14:28,537 Function __init__ completed correctly
+2025-03-04 15:14:28,537 Function file_reader completed correctly
+2025-03-04 15:14:28,537 Function counts completed correctly
+2025-03-04 15:14:28,537 Function fractions completed correctly
+2025-03-04 15:14:28,537 Function predict_random completed correctly
+2025-03-04 15:14:28,537 Function counts completed correctly
+2025-03-04 15:14:28,537 Function save_file completed correctly
+
+2025-03-04 15:14:43,558 Function __init__ completed correctly
+2025-03-04 15:14:43,558 Function file_reader completed correctly
+2025-03-04 15:14:43,559 Function counts completed correctly
+2025-03-04 15:14:43,559 Function fractions completed correctly
+2025-03-04 15:14:43,559 Function predict_random completed correctly
+2025-03-04 15:14:43,559 Function counts completed correctly
+2025-03-04 15:14:43,559 Function save_file completed correctly
+2025-03-04 15:14:46,216 Sending the report is completed: The report has been successfully created
+
+2025-03-04 15:15:41,951 In __init__ error: Error: File 'rere.txt' not found or does not exist.
+2025-03-04 15:19:15,822 In __init__ error: Error: File 'rere.txt' not found or does not exist.
+2025-03-04 15:19:31,796 Sending the report is completed: The report hasn been created due to an error
+
+2025-03-04 15:20:05,639 Function __init__ completed correctly
+2025-03-04 15:20:05,639 Function file_reader completed correctly
+2025-03-04 15:20:05,639 Function counts completed correctly
+2025-03-04 15:20:05,639 Function fractions completed correctly
+2025-03-04 15:20:05,639 Function predict_random completed correctly
+2025-03-04 15:20:05,640 Function counts completed correctly
+2025-03-04 15:20:05,640 Function save_file completed correctly
+2025-03-04 15:20:06,180 Sending the report is completed: The report has been successfully created
+
+2025-03-04 15:33:23,524 Function __init__ completed correctly
+2025-03-04 15:33:23,524 Function file_reader completed correctly
+2025-03-04 15:33:23,525 Function counts completed correctly
+2025-03-04 15:33:23,525 Function fractions completed correctly
+2025-03-04 15:33:23,525 Function predict_random completed correctly
+2025-03-04 15:33:23,525 Function counts completed correctly
+2025-03-04 15:33:23,525 Function save_file completed correctly
+2025-03-04 15:33:24,082 Sending the report is completed: The report has been successfully created
+
+2025-03-04 15:33:39,202 Function __init__ completed correctly
+2025-03-04 15:33:39,202 Function file_reader completed correctly
+2025-03-04 15:33:39,203 Function counts completed correctly
+2025-03-04 15:33:39,203 Function fractions completed correctly
+2025-03-04 15:33:39,203 Function predict_random completed correctly
+2025-03-04 15:33:39,203 Function counts completed correctly
+2025-03-04 15:33:39,203 Function save_file completed correctly
+2025-03-04 15:33:39,496 Sending the report is completed: The report has been successfully created
+
+2025-03-04 16:12:59,053 Function __init__ completed correctly
+2025-03-04 16:12:59,054 Function file_reader completed correctly
+2025-03-04 16:12:59,054 Function counts completed correctly
+2025-03-04 16:12:59,054 Function fractions completed correctly
+2025-03-04 16:12:59,054 Function predict_random completed correctly
+2025-03-04 16:12:59,054 Function counts completed correctly
+2025-03-04 16:12:59,054 Function save_file completed correctly
+2025-03-04 16:12:59,366 Sending the report is completed: The report has been successfully created
+2025-03-11 18:34:20,738 Function __init__ completed correctly
+2025-03-11 18:34:20,771 Function file_reader completed correctly
+2025-03-11 18:34:20,771 Function counts completed correctly
+2025-03-11 18:34:20,771 Function fractions completed correctly
+2025-03-11 18:34:20,771 Function predict_random completed correctly
+2025-03-11 18:34:20,771 Function counts completed correctly
+2025-03-11 18:34:20,772 Function save_file completed correctly
+2025-03-11 18:34:21,095 Sending the report is completed: The report has been successfully created
+
+2025-03-11 18:34:48,107 Function __init__ completed correctly
+2025-03-11 18:34:48,108 Function file_reader completed correctly
+2025-03-11 18:34:48,108 Function counts completed correctly
+2025-03-11 18:34:48,108 Function fractions completed correctly
+2025-03-11 18:34:48,108 Function predict_random completed correctly
+2025-03-11 18:34:48,108 Function counts completed correctly
+2025-03-11 18:34:48,108 Function save_file completed correctly
+2025-03-11 18:34:48,556 Sending the report is completed: The report has been successfully created
+2025-03-11 18:35:26,812 Function __init__ completed correctly
+2025-03-11 18:35:26,812 Function file_reader completed correctly
+2025-03-11 18:35:26,812 Function counts completed correctly
+2025-03-11 18:35:26,812 Function fractions completed correctly
+2025-03-11 18:35:26,812 Function predict_random completed correctly
+2025-03-11 18:35:26,812 Function counts completed correctly
+2025-03-11 18:35:26,812 Function save_file completed correctly
+2025-03-11 18:35:27,145 Sending the report is completed: The report has been successfully created

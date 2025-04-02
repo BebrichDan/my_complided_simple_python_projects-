@@ -1,0 +1,15 @@
+Mon Mar 10 15:17:41 2025    pstats-cumulative.txt
+
+         765135 function calls (741135 primitive calls) in 5.615 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2119 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    291/1    0.013    0.000    5.617    5.617 {built-in method builtins.exec}
+        1    0.000    0.000    5.617    5.617 financial_enhanced.py:1(<module>)
+        1    0.000    0.000    4.494    4.494 financial_enhanced.py:7(get_operating_income_data)
+        1    0.000    0.000    3.490    3.490 /home/user/Рабочий стол/DS_Bootcamp.Day03-1/src/ex04/gilfoyle/lib/python3.12/site-packages/httpx/_api.py:174(get)
+        1    0.000    0.000    3.490    3.490 /home/user/Рабочий стол/DS_Bootcamp.Day03-1/src/ex04/gilfoyle/lib/python3.12/site-packages/httpx/_api.py:39(request)
+
+
